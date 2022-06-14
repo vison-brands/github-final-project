@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Vison Studio
+   # Vison Brands
 
    # Input:
    # p, principal amount
